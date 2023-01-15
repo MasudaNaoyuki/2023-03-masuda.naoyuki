@@ -12,7 +12,7 @@
 
 # Author
 
-ここに、自分の名前を書く。
+Naoyuki Masuda
 
 # References
 
