@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\clefia_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$gf8Algebra.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods$gf8Algebra.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$IntArrayToNumerics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods$IntArrayToNumerics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$IntBytesOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods$IntBytesOps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$InvalidKeyException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods$InvalidKeyException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$Keys$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods$Keys$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$Keys.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods$Keys.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$MatrixAlgebra.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods$MatrixAlgebra.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$Numeric128Ops.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods$Numeric128Ops.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$Numeric256Ops.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods$Numeric256Ops.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$Numeric32Ops.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods$Numeric32Ops.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$ShortArrayToNumerics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods$ShortArrayToNumerics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods$StringToNumerics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods$StringToNumerics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Methods.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.13\classes\Methods.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

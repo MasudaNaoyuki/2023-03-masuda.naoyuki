@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(console, Some(c630d3c3-d745-4f85-b643-ada6832bdba4), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / console[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\MaSuDa\Desktop\12\CLEFIA\target\scala-2.11\classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mStarting scala interpreter...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 225 s (03:45), completed 2023/01/09 16:34:24[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
